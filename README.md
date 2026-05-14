@@ -2,6 +2,8 @@
 
 An AI-powered tool that evaluates a candidate's profile and generates an honest **Interview Readiness Score (0–100)**, a category label, a 3-sentence summary, and a 30-day actionable roadmap.
 
+vercel app: https://job-done-five.vercel.app/
+
 ## Stack
 
 | Layer | Tech |
