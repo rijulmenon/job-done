@@ -3,6 +3,7 @@
 An AI-powered interview readiness platform that tells you exactly where you stand before the interview — and helps you close the gap.
 
 **Live demo:** [job-done-five.vercel.app](https://job-done-five.vercel.app)
+**Presentation:** https://drive.google.com/file/d/1jpZN9eTr7n7ZQfBydYLi9ctdHJ9lI5ld/view?usp=sharing
 
 ---
 
